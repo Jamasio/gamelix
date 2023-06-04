@@ -30,6 +30,6 @@ export class ModalService {
     if(modal) {
       modal.visible = !modal.visible
     }
-    
+    console.log('this is a test')
   }
 }
